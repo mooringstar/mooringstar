@@ -6,7 +6,7 @@ pkg install git -y
 
 pkg install python -y
 
-git clone [https://github.com/Filtering-Rubika-Ryson/Filter-Rubika-Ryson](https://github.com/mooringstar/mooringstar.git)
+git clone (https://github.com/mooringstar/mooringstar.git)
 
 cd Filter-Rubika-Ryson
 
